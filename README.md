@@ -1,8 +1,8 @@
-## Olá! Eu sou Wesley Luza 👋
+## Hello! I'm Wesley Luza 👋
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 💻 Interessado em Desenvolvimento de Software e Desenvolvimento Web
-- 📚 Atualmente estudando e desenvolvendo projetos acadêmicos e pessoais
+- 👨‍🎓 Student of Systems Analysis and Development
+- 💻 Interested in Software Development and Web Development
+- 📚 Currently studying and developing academic and personal projects.
 
 <div align="center">
   <a href="https://github.com/Wesley-Luza">
