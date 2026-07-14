@@ -1,17 +1,40 @@
-## Hello! I'm Wesley Luza 👋
-
-- I am a Java backend developer in training.
-- Student of Systems Analysis and Development.
-- Interested in Software Development, using Java and Spring Boot.
-- Currently studying and developing academic and personal projects.
-
 <div align="center">
-  <a href="https://github.com/Wesley-Luza">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Wesley-Luza&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Wesley-Luza&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Wesley-Luza&theme=chartreuse-dark"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Me%20chamo%20Wesley!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
+
+### 👋 Software Developer (em formação)
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no **IFRS - Campus Veranópolis**
+- 💻 Back-end developer focado em **Java, Spring Boot e PostgreSQL**
+- 🏢 Atuo como **Analista de Suporte a Desenvolvimento de Software** na **Spark Intralogística Inteligente**
+- 🚀 Construindo projetos acadêmicos e pessoais enquanto avanço rumo à minha primeira vaga formal como dev
+
+<p>
+  <a href="https://github.com/Wesley-Luza"><img src="https://img.shields.io/badge/GitHub-Wesley--Luza-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/wesley-luza"><img src="https://img.shields.io/badge/LinkedIn-wesley--luza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+**🎮 LUZA GAMES — Sistema de Classificação de Jogos**
+Sistema desktop para classificação e gerenciamento de jogos, com controle de acesso por perfil (admin/usuário), CRUD completo de jogos, gêneros e usuários, e visual dark cyberpunk.
+
+`Java 21` `Swing` `PostgreSQL` `JDBC` `Maven` `MVC/DAO`
+🔗 [Repositório](https://github.com/Wesley-Luza/Sistema-Classificacao-Jogos)
+
+**🔧 Sistema de Pagamentos — Mecânica**
+Projeto pessoal em desenvolvimento: sistema de gestão de pagamentos para uma oficina mecânica, com back-end em Spring Boot e front-end em Thymeleaf.
+
+`Java` `Spring Boot` `Thymeleaf` `PostgreSQL`
+🚧 *em desenvolvimento*
+
+---
+
+### 🛠️ Tecnologias
 
   <div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -33,16 +56,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-##
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wesley-Luza&theme=github_dark" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Wesley-Luza&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wesley-Luza&theme=github_dark" height="165" alt="Top Languages"/>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wesley-luza/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  </a>
-  <a href="https://www.instagram.com/wesley.luza/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  </a>
-  
+
+📫 Vamos conversar? <a href="https://linkedin.com/in/wesley-luza">LinkedIn</a> · <a href="https://github.com/Wesley-Luza">GitHub</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+
 </div>
